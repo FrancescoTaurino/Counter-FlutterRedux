@@ -1,6 +1,6 @@
-# redux_sample
+# Counter-FlutterRedux
 
-A new Flutter application.
+Counter application for Android and iOS using Flutter and Redux.
 
 ## Getting Started
 
